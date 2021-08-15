@@ -40,30 +40,3 @@ There was a wider distrobution in recall scores between the models. despite low 
 There is still, however, a very clear winner based on the results, and that is the Easy Ensemble AdaBoost Classifier. This model has the highest precision score of high risk loans at 0.09, as well as a VERY high recall score of 0.92. This model casts can correctly identify ~92% of high risk loans in the data set, and also is the most precise, with the fewest perentage of false positives. While close to 9 out of the 10 loans this model will flag as "hgih risk" will actually be low risk, not a lot of high risk loans are slipping through the cracks. 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-s
